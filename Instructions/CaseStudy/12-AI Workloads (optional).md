@@ -1,7 +1,7 @@
 ---
 casestudy:
     title: 'Select the AI tool for business challenges'
-    module: ''
+    module: 'N/A'
 ---
 # Case study – Select the AI tool for business challenges
 
