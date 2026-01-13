@@ -7,15 +7,15 @@ casestudy:
 
 ## Designing and Implementing AI Workloads for a Global Retail Organization
 
-Contoso Retail Group is a mid-sized, global retail organization operating both e-commerce and physical storefronts across North America and Europe. The company is experiencing rapid growth and is under increasing pressure to improve customer experiences, streamline internal operations, and optimize inventory management—all while meeting strict security, governance, and compliance requirements.
+Tailwind Traders is a mid-sized, global retail organization operating both e-commerce and physical storefronts across North America and Europe. The company is experiencing rapid growth and is under increasing pressure to improve customer experiences, streamline internal operations, and optimize inventory management—all while meeting strict security, governance, and compliance requirements.
 
 Leadership approves a multi-phase AI adoption initiative aligned with the Cloud Adoption Framework for AI. The goal is to deliver quick productivity wins while building a scalable, governed foundation for more advanced AI workloads over time.
 
-Contoso must design AI solutions that balance speed, customization, cost, and control. The organization chooses a blended approach that uses Software as a Service (SaaS), Platform as a Service (PaaS), and Infrastructure as a Service (IaaS) Azure AI offerings, selecting the right tool for each business problem.
+Tailwind Traders must design AI solutions that balance speed, customization, cost, and control. The organization chooses a blended approach that uses Software as a Service (SaaS), Platform as a Service (PaaS), and Infrastructure as a Service (IaaS) Azure AI offerings, selecting the right tool for each business problem.
 
 ## Business challenges
 
-Contoso faces several common enterprise AI challenges:
+Tailwind Traders faces several common enterprise AI challenges:
 
 1. Employees spend excessive time searching for information, summarizing documents, and responding to routine communications.
 
@@ -55,7 +55,7 @@ Employees across sales, marketing, HR, and finance report spending considerable 
 
 ### Selected solution: Microsoft 365 Copilot (SaaS)
 
-Contoso begins its AI journey by adopting **Microsoft 365 Copilot**, a turnkey SaaS generative AI solution integrated directly into familiar Microsoft 365 applications.
+Tailwind Traders begins its AI journey by adopting **Microsoft 365 Copilot**, a turnkey SaaS generative AI solution integrated directly into familiar Microsoft 365 applications.
 
 Why SaaS?
 
@@ -77,19 +77,19 @@ Within weeks, employees report measurable productivity gains, including faster d
 
 ### Business problem
 
-Contoso’s e-commerce site lacks an intelligent, scalable chat feature capable of answering customer questions about products, returns, and order status.
+Tailwind Traders e-commerce site lacks an intelligent, scalable chat feature capable of answering customer questions about products, returns, and order status.
 
 ### Selected solution: Azure AI Foundry with Azure OpenAI (PaaS)
 
-To support a custom, customer-facing solution, Contoso builds a retrieval-augmented generation (RAG) **chatbot with Azure AI Foundry and Azure OpenAI models**.
+To support a custom, customer-facing solution, Tailwind Traders builds a retrieval-augmented generation (RAG) **chatbot with Azure AI Foundry and Azure OpenAI models**.
 
 Why PaaS?
 
-- Customization: The chatbot is grounded in Contoso’s product catalog, FAQs, and policy documents.
+- Customization: The chatbot is grounded in Tailwind Traders product catalog, FAQs, and policy documents.
 
 - Managed operations: Azure handles scaling, availability, and patching.
 
-- Security: Models and data are deployed within Contoso’s Azure subscription.
+- Security: Models and data are deployed within Tailwind Traders Azure subscription.
 
 - Flexibility: Supports both generative and nongenerative AI APIs.
 
@@ -117,7 +117,7 @@ Inventory levels are managed with static rules based on historical data, resulti
 
 ### Selected solution: Azure Machine Learning (PaaS)
 
-Contoso chooses **Azure Machine Learning** to build predictive models that forecast demand with historical sales, seasonal trends, and promotional data.
+Tailwind Traders chooses **Azure Machine Learning** to build predictive models that forecast demand with historical sales, seasonal trends, and promotional data.
 
 Why Azure Machine Learning?
 
