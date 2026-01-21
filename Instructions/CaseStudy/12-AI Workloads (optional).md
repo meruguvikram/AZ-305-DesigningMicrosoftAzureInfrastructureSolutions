@@ -25,7 +25,9 @@ Tailwind Traders faces several common enterprise AI challenges:
 
 ## Requirement
 
-Review the [Create your AI strategy - Cloud Adoption Framework](https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/ai/strategy) guidance, then match each business challenge to an Azure AI solution. For each choice, briefly explain why that product is the best fit.
+- Review the [Create your AI strategy - Cloud Adoption Framework](https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/ai/strategy) guidance.
+- Match each business challenge to an Azure AI solution.
+- For each choice, briefly explain why that product is the best fit.
 
 > [!IMPORTANT]
 > **STOP HERE TO DISCUSS – SOLUTION FOLLOWS**
